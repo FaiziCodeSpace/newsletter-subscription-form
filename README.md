@@ -7,7 +7,7 @@
 ## 🔧 Tech Stack
 - **HTML5**
 - **CSS3**
-- (Optional) **Node.js + Express** for backend form handling
+- **Node.js + Express** for backend form handling
 
 ---
 
@@ -22,3 +22,39 @@
 ---
 
 ## 📁 Project Structure
+newsletter-subscription-form/
+├── index.html # Main subscription form
+├── congratulations.html # Success message
+├── already.html # Already subscribed message
+├── style.css # Centralized styling
+└── README.md # Project documentation
+
+
+---
+
+## 🛠 Setup Instructions
+### 1. Clone the repo:
+```bash
+git clone https://github.com/FaiziCodeSpace/job-board.git
+cd job-board
+```
+2. Install dependencies:
+```
+npm install
+```
+4. Run the server:
+```
+node server.js
+```
+Visit in your browser:
+http://localhost:3000
+
+📬 Contact & Credits
+Made with 💻 by Faizan (FaiziCodeSpace)
+
+🔗 GitHub: https://github.com/FaiziCodeSpace
+
+This project is perfect for showcasing backend structure and logic to clients, employers, or during internships, especially for those who want to prove their Express.js skills without diving into full databases.
+
+✅ License
+This project is licensed under the MIT License.
