@@ -47,7 +47,7 @@ npm install
 node server.js
 ```
 Visit in your browser:
-http://localhost:3000
+localhost:3000/index
 
 📬 Contact & Credits
 Made with 💻 by Faizan (FaiziCodeSpace)
