@@ -22,13 +22,14 @@
 ---
 
 ## 📁 Project Structure
+```
 newsletter-subscription-form/
 ├── index.html # Main subscription form
 ├── congratulations.html # Success message
 ├── already.html # Already subscribed message
 ├── style.css # Centralized styling
 └── README.md # Project documentation
-
+```
 
 ---
 
